@@ -5,6 +5,7 @@
 <title><?php echo esc_html( $form['title'] ); ?></title>
 <style type="text/css">
 body {
+	background:#3ebdab;
 	padding: 0;
 	font-family: sans-serif;
 	font-size: 13px;
