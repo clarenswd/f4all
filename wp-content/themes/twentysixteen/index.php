@@ -16,6 +16,8 @@
 
 get_header(); ?>
 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ut inventore, dignissimos ipsa mollitia, iure dolor exercitationem. Reprehenderit, nemo quibusdam consequatur reiciendis, excepturi quos, magni quis dolorem quas officia voluptate?
+
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
